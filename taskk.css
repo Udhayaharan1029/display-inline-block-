@@ -1,0 +1,13 @@
+div {
+  display: inline-block;
+}
+img {
+  height: 250px;
+  width: 198px;
+  margin-top: 60px;
+  margin-left: 20px;
+}
+img {
+  border-radius: 9px;
+  box-shadow: 0 13px 27px -5px, 0 7px 13px -3px;
+}
